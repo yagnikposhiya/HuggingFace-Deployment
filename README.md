@@ -1,3 +1,14 @@
+---
+license: openrail
+title: HuggingFace Deployment Demo
+sdk: streamlit
+sdk_version: 1.26.0
+emoji: 📊
+colorFrom: pink
+colorTo: yellow
+pinned: false
+---
+
 # HuggingFace-Deployment
 
 1. title: HuggingFace Deployment Demo
